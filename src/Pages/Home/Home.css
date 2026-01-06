@@ -1,0 +1,6 @@
+.homePage .col-md-12 {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 30px;
+}
